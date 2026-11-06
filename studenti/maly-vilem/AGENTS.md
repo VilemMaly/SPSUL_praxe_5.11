@@ -1,0 +1,1 @@
+Hlášení závad v učebně: zařízení, učebna, závažnost
