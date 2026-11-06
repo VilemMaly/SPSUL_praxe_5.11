@@ -66,3 +66,4 @@ def run_consistency_test(model="qwen/qwen3.8-27b", provider="groq", runs=5, case
 
 if __name__ == "__main__":
     run_consistency_test()
+

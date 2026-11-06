@@ -39,3 +39,4 @@ Výstup: {"kategorie": "elektrina", "priorita": "vysoka", "ucebna": "L4"}
 
 Text hlášení k vyhodnocení:
 {input}
+

@@ -26,3 +26,4 @@ Pravidla pro hodnoty:
 
 Text hlášení:
 {input}
+
